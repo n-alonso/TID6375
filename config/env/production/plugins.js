@@ -1,4 +1,4 @@
-module.exports = ({ env }) => ({
+module.exports = {
   upload: {
     config: {
       breakpoints: {
@@ -11,4 +11,4 @@ module.exports = ({ env }) => ({
       },
     },
   },
-});
+};
